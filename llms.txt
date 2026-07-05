@@ -1,0 +1,45 @@
+# Geotechnique — Asnières-sur-Seine
+
+> Geotechnical engineering services in Asnières-sur-Seine, France.
+
+## Services
+- [Amelioration Sols](https://asnieres-sur-seine.geotechnique.biz/amelioration-sols/)
+- [Cbr Routier](https://asnieres-sur-seine.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://asnieres-sur-seine.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://asnieres-sur-seine.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://asnieres-sur-seine.geotechnique.biz/colonnes-ballastees/)
+- [Essai Cpt](https://asnieres-sur-seine.geotechnique.biz/essai-cpt/)
+- [Excavations](https://asnieres-sur-seine.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://asnieres-sur-seine.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://asnieres-sur-seine.geotechnique.biz/fondations/)
+- [Geophysique](https://asnieres-sur-seine.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://asnieres-sur-seine.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://asnieres-sur-seine.geotechnique.biz/granulometrie/)
+- [Injections](https://asnieres-sur-seine.geotechnique.biz/injections/)
+- [Investigation](https://asnieres-sur-seine.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://asnieres-sur-seine.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://asnieres-sur-seine.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://asnieres-sur-seine.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://asnieres-sur-seine.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://asnieres-sur-seine.geotechnique.biz/liquefaction/)
+- [Masw](https://asnieres-sur-seine.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://asnieres-sur-seine.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://asnieres-sur-seine.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://asnieres-sur-seine.geotechnique.biz/permeabilite-in-situ/)
+- [Puits Inspection](https://asnieres-sur-seine.geotechnique.biz/puits-inspection/)
+- [Resistivite](https://asnieres-sur-seine.geotechnique.biz/resistivite/)
+- [Semelles](https://asnieres-sur-seine.geotechnique.biz/semelles/)
+- [Sismique](https://asnieres-sur-seine.geotechnique.biz/sismique/)
+- [Sondages Spt](https://asnieres-sur-seine.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://asnieres-sur-seine.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://asnieres-sur-seine.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://asnieres-sur-seine.geotechnique.biz/talus/)
+- [Triaxial](https://asnieres-sur-seine.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://asnieres-sur-seine.geotechnique.biz/tunnels-sol-mou/)
+
+## Contact
+- Website: https://asnieres-sur-seine.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Asnières-sur-Seine, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
